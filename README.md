@@ -11,7 +11,7 @@ This project is a Python-based simulation of a coffee vending machine, designed 
 
 -> Class Interaction: The interaction between the User class and the CoffeeMachine class illustrates how objects can work together to form a cohesive program.
 
-**Features**
+**Features: -**
 
 -> User Interaction: The program takes input from users to select drinks, manage payments, and decide on sugar levels.
 
